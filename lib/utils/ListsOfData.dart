@@ -49,7 +49,7 @@ final productImage = [
   'assets/images/productImage/image 49.png',
   'assets/images/productImage/image 55.png',
 ];
-///////////
+
 final size = ['4', '6', '6.5', '7', '7.5', '8', '8.5', '9', '9.5'];
 final size1 = ['4', '4.5', '5', '5.5', '6', '6.5', '7', '7.5', '8'];
 final size2 = ['5', '5.5', '6', '6.5', '7', '7.5', '8', '8.5', '9', '9.5'];
